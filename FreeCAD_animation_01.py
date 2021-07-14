@@ -6,7 +6,7 @@ import PySide
 import math
 import FreeCADGui
 
-#FreeCAD animation
+#FreeCAD animation 1
 def col(col_hex):
 	r_hex = col_hex[0:2]
 	g_hex = col_hex[2:4]
