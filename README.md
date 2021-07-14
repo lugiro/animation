@@ -1,7 +1,9 @@
-#FreeCAD animasjon
+## FreeCAD animasjon
 
 **FreeCAD_animation_mini.py**
+
 **FreeCAD_animation_01.py**
+
 er en Python scriptfiler som kan benyttes i 3D-tegneprogrammet FreeCAD.
 
 Beskrivelsen er laget for Mac, men regner med den fungerer under Windows også.
