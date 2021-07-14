@@ -13,7 +13,7 @@ viser en forenklet animasjon med en sylinder som roterer rundt en sylinder.<br>
 Kan benytes for å forstå hvordan en animasjonsfil er bygget opp.<br>
 
 
-# ***Start FreeCAD***<br>
+##### ***Start FreeCAD***<br>
 
 Velg kommand på øverste linje: Macro/Macros<br>
 Nytt meny vindu kommer opp<br>
@@ -23,7 +23,7 @@ Trykk på Execute<br>
 
 Voala animasjon vises i FreeCAD-vinduet<br>
 
-# *Tips*<br>
+#### *Tips*<br>
 Det kan være nyttig å ha oppe Python console vindu.<br>
 Velg kommand på øverste linje: View/Panels/<br>
 og huk av for Python console<br>
