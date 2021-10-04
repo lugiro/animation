@@ -32,3 +32,5 @@ Dersom hovedvindu lukkes/script stoppes ser det ut som timeren fortsetter å gå
 Dette skaper mulignes ekstra belastning som medfører treghet.<br>
 Fra Python console-vindu kan timer stoppes ved å skrive: timer.stop()<br>
 
+OBS!\
+Programvaren brukes på eget ansvar og utgiver tar ikke noe ansvar for eventuell skade som kan skje ved bruk av programvaren.
